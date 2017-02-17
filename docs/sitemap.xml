@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lazbog.github.io/tutorial/getting-started/</loc>
+    <loc>http://lazbog.github.io/tutorial/getting-started/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lazbog.github.io/about/</loc>
+    <loc>http://lazbog.github.io/about/</loc>
     <lastmod>2015-07-28T09:51:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lazbog.github.io/post/welcome/</loc>
+    <loc>http://lazbog.github.io/post/welcome/</loc>
     <lastmod>2015-07-28T09:32:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lazbog.github.io/tags/blog/</loc>
-    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lazbog.github.io/tags/hugo/</loc>
-    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lazbog.github.io/</loc>
-    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lazbog.github.io/post/</loc>
+    <loc>http://lazbog.github.io/tags/blog/</loc>
     <lastmod>2015-07-28T09:32:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lazbog.github.io/tags/series/</loc>
+    <loc>http://lazbog.github.io/tags/hugo/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lazbog.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lazbog.github.io/tags/tutorial/</loc>
+    <loc>http://lazbog.github.io/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lazbog.github.io/tutorial/</loc>
+    <loc>http://lazbog.github.io/post/</loc>
+    <lastmod>2015-07-28T09:32:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lazbog.github.io/tags/series/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lazbog.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lazbog.github.io/tags/tutorial/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lazbog.github.io/tutorial/</loc>
     <lastmod>2016-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

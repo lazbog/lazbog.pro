@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LazBog</title>
-    <link>https://lazbog.github.io/index.xml</link>
+    <link>http://lazbog.github.io/index.xml</link>
     <description>Recent content on LazBog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru_Ru</language>
     <lastBuildDate>Fri, 04 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://lazbog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lazbog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Getting Started With hugo-geo</title>
-      <link>https://lazbog.github.io/tutorial/getting-started/</link>
+      <link>http://lazbog.github.io/tutorial/getting-started/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lazbog.github.io/tutorial/getting-started/</guid>
+      <guid>http://lazbog.github.io/tutorial/getting-started/</guid>
       <description>&lt;p&gt;Setting up and configuring hugo-geo is as simple as changing a few values in your site &lt;code&gt;config.toml&lt;/code&gt;. Lets look at this example site&amp;rsquo;s config and go over what
 each of hugo-geo&amp;rsquo;s site &lt;code&gt;[params]&lt;/code&gt; do.&lt;/p&gt;
 
@@ -134,10 +134,10 @@ New &lt;code&gt;tutorial&lt;/code&gt;&amp;rsquo;s will not show up on the front 
     
     <item>
       <title>About Me</title>
-      <link>https://lazbog.github.io/about/</link>
+      <link>http://lazbog.github.io/about/</link>
       <pubDate>Tue, 28 Jul 2015 09:51:51 -0400</pubDate>
       
-      <guid>https://lazbog.github.io/about/</guid>
+      <guid>http://lazbog.github.io/about/</guid>
       <description>&lt;p&gt;This placeholder page could be your &amp;ldquo;about me&amp;rdquo; page, where you detail your contact information,
 portfolio pieces, and describe yourself and your goals.&lt;/p&gt;
 </description>
@@ -145,14 +145,14 @@ portfolio pieces, and describe yourself and your goals.&lt;/p&gt;
     
     <item>
       <title>Welcome to Hugo-Geo!</title>
-      <link>https://lazbog.github.io/post/welcome/</link>
+      <link>http://lazbog.github.io/post/welcome/</link>
       <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
       
-      <guid>https://lazbog.github.io/post/welcome/</guid>
+      <guid>http://lazbog.github.io/post/welcome/</guid>
       <description>&lt;p&gt;Welcome to hugo-geo, a resposive theme for the &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo static site generator.&lt;/a&gt; Hugo is designed for &lt;code&gt;post&lt;/code&gt; and &lt;code&gt;tutorial&lt;/code&gt; sections, and is perfect for personal
 portfolio or blog sites.&lt;/p&gt;
 
-&lt;p&gt;Why don&amp;rsquo;t you check out the &lt;a href=&#34;https://lazbog.github.io/tutorial/getting-started/&#34;&gt;Getting Started Tutorial&lt;/a&gt; and find out how you can use hugo-geo and customize it to your liking.&lt;/p&gt;
+&lt;p&gt;Why don&amp;rsquo;t you check out the &lt;a href=&#34;http://lazbog.github.io/tutorial/getting-started/&#34;&gt;Getting Started Tutorial&lt;/a&gt; and find out how you can use hugo-geo and customize it to your liking.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,4 +1,4 @@
-baseurl = "https://lazbog.github.io"
+baseurl = "http://lazbog.github.io/"
 relativeURLs = false
 languageCode = "ru_Ru"
 title = "Personal blog for LazBog"
