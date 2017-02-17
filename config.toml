@@ -1,0 +1,40 @@
+baseurl = "https://lazbog.github.io"
+relativeURLs = false
+languageCode = "ru_Ru"
+title = "Personal blog for LazBog"
+disqusShortname = "shortcode-here"
+paginate = 5
+publishDir = "docs"
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+	showglobe = true
+
+	favicon = "favicon.ico"
+	
+	analytics = "code-here"
+
+	github = "https://github.com/lazbog"
+	twitter = "https://twitter.com/lazbog"
+	email = "lazbog@tuta.io"
+	googleplus = "https://plus.google.com/106815883580854777966"
+	
+	profilepic = "img/profile.png"
+	
+	title = "LazBog"
+	subtitle = "MY PERSONAL BLOG"
+	
+	[[params.navlinks]]
+	name = "About"
+	url = "about"
+	
+	[[params.navlinks]]
+	name = "Blog"
+	url = ""
+	
+	[[params.navlinks]]
+	name = "Tutorials"
+	url = "tutorial/"
