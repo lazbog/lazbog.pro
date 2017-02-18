@@ -1,7 +1,8 @@
 baseurl = "http://lazbog.pro/"
 relativeURLs = false
 languageCode = "ru-Ru"
-title = "Personal blog for LazBog"
+title = "ЛазБог - мой личный блог"
+description = "Содержимое головы человека по имени Богданъ"
 disqusShortname = "lazbog"
 paginate = 5
 publishDir = "docs"
@@ -27,16 +28,16 @@ publishDir = "docs"
 	profilepic = "img/profile.png"
 	
 	title = "LazBog"
-	subtitle = "MY PERSONAL BLOG"
+	subtitle = "Мой личный блог"
 	
 	[[params.navlinks]]
-	name = "About"
+	name = "Обо мне"
 	url = "about/"
 	
 	[[params.navlinks]]
-	name = "Blog"
+	name = "Блог"
 	url = ""
 	
 	[[params.navlinks]]
-	name = "Tutorials"
+	name = "Гайды"
 	url = "tutorial/"

@@ -1,7 +1,7 @@
 +++
 date = "2016-03-04"
 title = "Getting Started With hugo-geo"
-tags = ["tutorial", "series", "hugo"]
+tags = ["tutorial", "guide", "hugo"]
 description = "A tutorial on how to use and customize the Hugo-Geo theme"
 index = true
 highlight = true
