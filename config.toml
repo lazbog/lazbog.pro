@@ -2,7 +2,7 @@ baseurl = "http://lazbog.pro/"
 relativeURLs = false
 languageCode = "ru-Ru"
 title = "Personal blog for LazBog"
-disqusShortname = "shortcode-here"
+disqusShortname = "lazbog"
 paginate = 5
 publishDir = "docs"
 
