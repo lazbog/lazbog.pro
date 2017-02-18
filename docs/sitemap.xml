@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lazbog.pro/post/welcome/</loc>
+    <loc>http://lazbog.pro/post/report-2016/</loc>
     <lastmod>2016-12-31T09:32:45-04:00</lastmod>
   </url>
   
@@ -47,7 +47,19 @@
   </url>
   
   <url>
+    <loc>http://lazbog.pro/tags/report/</loc>
+    <lastmod>2016-12-31T09:32:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lazbog.pro/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lazbog.pro/tags/travel/</loc>
+    <lastmod>2016-12-31T09:32:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
