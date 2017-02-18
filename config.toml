@@ -1,6 +1,6 @@
-baseurl = "http://lazbog.github.io/"
+baseurl = "http://lazbog.pro/"
 relativeURLs = false
-languageCode = "ru_Ru"
+languageCode = "ru-Ru"
 title = "Personal blog for LazBog"
 disqusShortname = "shortcode-here"
 paginate = 5
@@ -29,7 +29,7 @@ publishDir = "docs"
 	
 	[[params.navlinks]]
 	name = "About"
-	url = "about"
+	url = "about/"
 	
 	[[params.navlinks]]
 	name = "Blog"

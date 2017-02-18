@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on LazBog</title>
-    <link>http://lazbog.github.io/tags/blog/index.xml</link>
+    <link>http://lazbog.pro/tags/blog/index.xml</link>
     <description>Recent content in Blog on LazBog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru_Ru</language>
-    <atom:link href="http://lazbog.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-Ru</language>
+    <atom:link href="http://lazbog.pro/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome to Hugo-Geo!</title>
-      <link>http://lazbog.github.io/post/welcome/</link>
+      <link>http://lazbog.pro/post/welcome/</link>
       <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
       
-      <guid>http://lazbog.github.io/post/welcome/</guid>
+      <guid>http://lazbog.pro/post/welcome/</guid>
       <description>&lt;p&gt;Welcome to hugo-geo, a resposive theme for the &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo static site generator.&lt;/a&gt; Hugo is designed for &lt;code&gt;post&lt;/code&gt; and &lt;code&gt;tutorial&lt;/code&gt; sections, and is perfect for personal
 portfolio or blog sites.&lt;/p&gt;
 
-&lt;p&gt;Why don&amp;rsquo;t you check out the &lt;a href=&#34;http://lazbog.github.io/tutorial/getting-started/&#34;&gt;Getting Started Tutorial&lt;/a&gt; and find out how you can use hugo-geo and customize it to your liking.&lt;/p&gt;
+&lt;p&gt;Why don&amp;rsquo;t you check out the &lt;a href=&#34;http://lazbog.pro/tutorial/getting-started/&#34;&gt;Getting Started Tutorial&lt;/a&gt; and find out how you can use hugo-geo and customize it to your liking.&lt;/p&gt;
 </description>
     </item>
     
