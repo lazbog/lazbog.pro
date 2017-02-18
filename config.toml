@@ -17,6 +17,8 @@ publishDir = "docs"
 	
 	analytics = "code-here"
 
+	vkontakte = "https://vk.com/lazbog"
+	facebook = "https://fb.com/lazbog"
 	github = "https://github.com/lazbog"
 	twitter = "https://twitter.com/lazbog"
 	email = "lazbog@tuta.io"
